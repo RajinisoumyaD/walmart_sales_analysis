@@ -37,3 +37,6 @@ walmart_sales_analysis/
 ├── .gitignore                  # Files to ignore in Git
 └── README.md                   # This file
 
+## Conclusion
+
+This analysis helps understand what drives Walmart's sales and provides insights that can be used to improve store performance and prepare for seasonal changes.
